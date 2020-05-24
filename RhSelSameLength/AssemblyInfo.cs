@@ -10,7 +10,7 @@ using Rhino.PlugIns;
 [assembly: PlugInDescription(DescriptionType.Phone, "")]
 [assembly: PlugInDescription(DescriptionType.Organization, "")]
 [assembly: PlugInDescription(DescriptionType.UpdateUrl, "")]
-[assembly: PlugInDescription(DescriptionType.WebSite, "")]
+[assembly: PlugInDescription(DescriptionType.WebSite, "https://github.com/mnmly/RhSelSameLength")]
 
 // Rhino requires a Guid assigned to the assembly.
 [assembly: Guid("239E5268-8B03-4A74-9B77-2802A87D9B51")]

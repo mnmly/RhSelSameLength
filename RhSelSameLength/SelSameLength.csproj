@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <TargetFramework>net45</TargetFramework>
+    <RootNamespace>RhSelSameLength</RootNamespace>
+    <Version>1.0</Version>
+    <Title>RhSelSameLength</Title>
+    <Description>Select curve with same length</Description>
+    <ReleaseVersion>1.0</ReleaseVersion>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="RhinoCommon" Version="7.0.19197.10155-wip" IncludeAssets="compile;build" />
+  </ItemGroup>
+  
+</Project>
